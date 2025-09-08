@@ -3,7 +3,7 @@ Innovative Cybersecurity Portfolio
 
 A Journey into Secure, Intelligent Systems
 
-Welcome to my cybersecurity portfolio — a curated collection of hands-on projects that demonstrate my skills in security, automation, and secure development practices.
+Welcome to my cybersecurity portfolio — a curated collection of hands-on projects that demonstrate my skills in security, automation, AI-integration, and secure development practices.
 
 This repository is designed to showcase practical implementations, with each project living in its own folder and branch for easy navigation.
 
